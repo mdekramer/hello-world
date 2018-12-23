@@ -1,6 +1,8 @@
 <?php 
 
-echo "hello, world";
+// Cleanup V3
+
+echo 'Hello World!';
 
 
 ?>
